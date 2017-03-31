@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Let's get cracking
+title: Pacman!
 ---
 
-Here's a p5 example
+Click below and use your arrow keys to move around
 
 <iframe data-src='/p5/first' style='height: 400px; width: 400px'></iframe>
