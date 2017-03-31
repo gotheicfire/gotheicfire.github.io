@@ -5,4 +5,4 @@ title: Let's get cracking
 
 Here's a p5 example
 
-<iframe data-src='/p5/first' style='height: 400px'></iframe>
+<iframe data-src='/p5/first' style='height: 400px; width: 400px'></iframe>
