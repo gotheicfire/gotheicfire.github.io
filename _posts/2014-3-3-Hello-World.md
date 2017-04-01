@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Pacman!
+title: Super pacman!
 ---
 
-Click below and use your arrow keys to move around
+This is a really cool game
 
 <iframe data-src='/p5/first' style='height: 400px; width: 400px'></iframe>
